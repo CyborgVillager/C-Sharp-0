@@ -1,0 +1,23 @@
+Key Legend:
+                -- = current version
+                -wor: = working on this ver
+                 <-x_x-> = bug
+                 |x_x| = bug fixed
+                 <-o_o-> = design issue
+                 |o_o| = design issue fixed
+
+
+                     ~Updating to repo~
+               | --------------------------- |
+               | v# : Short Version Title    |
+               | Description: v# description |
+               | --------------------------- |
+ ----------------------------    ----------------------------   ------------------------- ------------------------------
+ --v0 C# Respo Created: Learning C#, has some interest in further learning about it due to some past year projects that
+                        I've worked on using VR/unity for a MMO/world building type of game basic progression from
+                        cave/stone era to medevil -> steam punk/industrial era -> modern -> scifi. So
+                        far made it to cave/stone era
+
+                        Figured the more I know about C# I can further improve this concept. Granted for now it will just
+                        be controls, will implement VR later.(Made some VR implements, but figured its better to get
+                        the essentials sorted out before I add VR, due to certain factors at the moment).

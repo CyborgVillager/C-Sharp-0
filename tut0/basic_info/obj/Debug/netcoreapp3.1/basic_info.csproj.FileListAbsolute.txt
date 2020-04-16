@@ -1,0 +1,13 @@
+D:\PyProject\GitRespo\C#\C-Sharp-0\tut0\basic_info\bin\Debug\netcoreapp3.1\basic_info.exe
+D:\PyProject\GitRespo\C#\C-Sharp-0\tut0\basic_info\bin\Debug\netcoreapp3.1\basic_info.deps.json
+D:\PyProject\GitRespo\C#\C-Sharp-0\tut0\basic_info\bin\Debug\netcoreapp3.1\basic_info.runtimeconfig.json
+D:\PyProject\GitRespo\C#\C-Sharp-0\tut0\basic_info\bin\Debug\netcoreapp3.1\basic_info.runtimeconfig.dev.json
+D:\PyProject\GitRespo\C#\C-Sharp-0\tut0\basic_info\bin\Debug\netcoreapp3.1\basic_info.dll
+D:\PyProject\GitRespo\C#\C-Sharp-0\tut0\basic_info\bin\Debug\netcoreapp3.1\basic_info.pdb
+D:\PyProject\GitRespo\C#\C-Sharp-0\tut0\basic_info\obj\Debug\netcoreapp3.1\basic_info.csprojAssemblyReference.cache
+D:\PyProject\GitRespo\C#\C-Sharp-0\tut0\basic_info\obj\Debug\netcoreapp3.1\basic_info.csproj.CoreCompileInputs.cache
+D:\PyProject\GitRespo\C#\C-Sharp-0\tut0\basic_info\obj\Debug\netcoreapp3.1\basic_info.AssemblyInfoInputs.cache
+D:\PyProject\GitRespo\C#\C-Sharp-0\tut0\basic_info\obj\Debug\netcoreapp3.1\basic_info.AssemblyInfo.cs
+D:\PyProject\GitRespo\C#\C-Sharp-0\tut0\basic_info\obj\Debug\netcoreapp3.1\basic_info.dll
+D:\PyProject\GitRespo\C#\C-Sharp-0\tut0\basic_info\obj\Debug\netcoreapp3.1\basic_info.pdb
+D:\PyProject\GitRespo\C#\C-Sharp-0\tut0\basic_info\obj\Debug\netcoreapp3.1\basic_info.genruntimeconfig.cache
