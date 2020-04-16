@@ -22,7 +22,7 @@ Key Legend:
                         be controls, will implement VR later.(Made some VR implements, but figured its better to get
                         the essentials sorted out before I add VR, due to certain factors at the moment).
 
---v1 WriteLine/ReadLine: New files added for reading user input/printing out results
+v1 WriteLine/ReadLine: New files added for reading user input/printing out results
 
                        Files Added:
                         *basic_userinput.cs
@@ -30,3 +30,14 @@ Key Legend:
 
                         *Asci_name_input.cs
                             - Prints out user name as an asci format
+
+
+--v2 C# Variable Casting: New class for variable introduction
+
+                         Files Added:
+                            * Explicit_Casting
+
+                            * Explicity_Casting1
+
+                            *Convert_Class
+
