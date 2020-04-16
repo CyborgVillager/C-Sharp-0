@@ -13,7 +13,7 @@ Key Legend:
                | Description: v# description |
                | --------------------------- |
  ----------------------------    ----------------------------   ------------------------- ------------------------------
- --v0 C# Respo Created: Learning C#, has some interest in further learning about it due to some past year projects that
+ v0 C# Respo Created: Learning C#, has some interest in further learning about it due to some past year projects that
                         I've worked on using VR/unity for a MMO/world building type of game basic progression from
                         cave/stone era to medevil -> steam punk/industrial era -> modern -> scifi. So
                         far made it to cave/stone era
@@ -21,3 +21,12 @@ Key Legend:
                         Figured the more I know about C# I can further improve this concept. Granted for now it will just
                         be controls, will implement VR later.(Made some VR implements, but figured its better to get
                         the essentials sorted out before I add VR, due to certain factors at the moment).
+
+--v1 WriteLine/ReadLine: New files added for reading user input/printing out results
+
+                       Files Added:
+                        *basic_userinput.cs
+                            - basic user input/print out the user's name
+
+                        *Asci_name_input.cs
+                            - Prints out user name as an asci format

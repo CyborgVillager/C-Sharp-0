@@ -6,7 +6,13 @@ namespace basic_info
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!\t");
+            Console.WriteLine("Hello Jonathan");
+            Console.WriteLine("Test\n");
+            Console.WriteLine("Testing, Testing!, Hello Computer");
+            Console.ReadKey();
+           
+           
         }
     }
 }
