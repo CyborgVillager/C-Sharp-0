@@ -13,14 +13,14 @@ namespace Variables0
             float z = 6;
             char t = '+';
             string s = x.ToString();
+            s = t.ToString();
             s = y.ToString();
             s = z.ToString();
-            s = t.ToString();
             Console.WriteLine(s);
             Console.ReadLine();
 
 
-           
+
 
         }
     }

@@ -32,7 +32,7 @@ v1 WriteLine/ReadLine: New files added for reading user input/printing out resul
                             - Prints out user name as an asci format
 
 
---v2 C# Variable Casting: New class for variable introduction
+v2 C# Variable Casting: New class for variable introduction
 
                          Files Added:
                             * Explicit_Casting
@@ -41,3 +41,9 @@ v1 WriteLine/ReadLine: New files added for reading user input/printing out resul
 
                             *Convert_Class
 
+--v3 C# Window: window creation, user has choice to either close the window or leave it as it
+                basic name, and message boxes
+
+                Files Added
+                * windforms/WindowsFormsApp1/Form1.cs
+                    - Resources/images 2.PNG,21.PNG, citybackground.JPG

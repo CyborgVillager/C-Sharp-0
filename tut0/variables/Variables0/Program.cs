@@ -6,17 +6,9 @@ namespace Variables0
     {
         static void Main(string[] args)
         {
-            double x = 24;
-            int y = 15;
-            float z = 6;
-            char t = '+';
-            string s = x.ToString();
-            s = t.ToString();
-            s = y.ToString();
-            s = z.ToString();
-           
-            Console.WriteLine(s);
-            Console.ReadLine();
+            string user_name;
+            string first_name,last_name;            
+            float user_age;
         }
     }
 }
